@@ -6,3 +6,4 @@
 
 " Vim tools
   Bundle "git://github.com/tpope/vim-dispatch.git"
+  Bundle "git://github.com/mileszs/ack.vim.git"
