@@ -3,7 +3,6 @@
 
 " Plugins requiring no additional configuration or keymaps
   Bundle "git://github.com/adimit/prolog.vim"
-  Bundle "git://github.com/derekwyatt/vim-scala.git"
 
 " Vim tools
   Bundle "git://github.com/tpope/vim-dispatch.git"
