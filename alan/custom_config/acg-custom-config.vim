@@ -1,5 +1,6 @@
 " Default color scheme
-color vibrantink
+set background=dark
+color solarized
 
 
 " enable project-specific .vimrc files
